@@ -11,11 +11,23 @@ resolução de diversos exercicios para desenvolvimento da lógica de programaç
 - [Modularização]()
 - [Ponteiros]()
 
+
+## 📜 Resumo
 | Lista | Rseumo |
 |-------|---------|
-|Lista 1| Sintaxe básica, printf, scanf, etc|
-|Lista 2| Desenvolvimento de condicionais |
-|Lista 3| Desenvolvimento das estruturas de repetição|
+|Lista 1| Sintaxe básica, printf, scanf, tipo de dados, etc|
+|Lista 2| Desenvolvimento de condicionais, if, else, if else |
+|Lista 3| Desenvolvimento das estruturas de repetição, for, while, do while|
 |Lista 4| Desenvolvimento de vetores(Arrays)|
-|Lista 5| Aprofundamento de vetores, matrizes, ect|
+|Lista 5| Aprofundamento de vetores, com manipulação de matrizes, por exemplo|
 |Lista 6| Desenvolvimento de funções, ponteiros, etc|
+
+Importante o uso de:
+```
+#include <stdio.h>
+```
+```
+#include <math.>
+```
+
+## ⌛Vou atualizando aos poucos...
