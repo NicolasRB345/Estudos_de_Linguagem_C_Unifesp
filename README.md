@@ -27,7 +27,7 @@ Importante o uso de:
 #include <stdio.h>
 ```
 ```
-#include <math.>
+#include <math.h>
 ```
 
 ## ⌛Vou atualizando aos poucos...
