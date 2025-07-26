@@ -1,33 +1,26 @@
 
-# Unifesp | desenvolvimento de algoritimos em ANSI C
+# Unifesp | Algorithms development in ANSI C
 
-resolução de diversos exercicios para desenvolvimento da lógica de programação e de algoritimos. O projeto possui 6 listas de exercicios que abordam tópicos desde o mais básico como a sintaxe básica da linguagem, até o mais avançado como funções recursivas e ponteiros.
-
-
-## 💻 Conceitos estudados
-- [Lógica de programação e algoritimos](https://www.alura.com.br/artigos/algoritmos-e-logica-de-programacao?srsltid=AfmBOorDYLJ7hyKDK1LGaGKBf3rGMWdO_3HATTkhseXGXfMLyEoMnZO1)
-- [Sintaxe básica de C]()
-- [Arrays](https://linguagemc.com.br/vetores-ou-arrays-em-linguagem-c/)
-- [Modularização]()
-- [Ponteiros]()
+Solving multiple exercices to the development of programing logic and algorithms in C.
 
 
-## 📜 Resumo
-| Lista | Rseumo |
+## 💻 Studied Concepts
+- [Programing Logic and Algorithms]()
+- [Basic Syntax of C]()
+- [Arrays]()
+- [Modularity]()
+- [Pointers]()
+
+
+## 📜 Summary
+| List | Concepts |
 |-------|---------|
-|Lista 1| Sintaxe básica, printf, scanf, tipo de dados, etc|
-|Lista 2| Desenvolvimento de condicionais, if, else, if else |
-|Lista 3| Desenvolvimento das estruturas de repetição, for, while, do while|
-|Lista 4| Desenvolvimento de vetores(Arrays)|
-|Lista 5| Aprofundamento de vetores, com manipulação de matrizes, por exemplo|
-|Lista 6| Desenvolvimento de funções, ponteiros, etc|
+|List 1| Basic Syntax, printf, scanf, data types...|
+|List 2| Development of Conditionals, if, else, if else |
+|List 3| Development of Iteration Structures, for, while, do while|
+|List 4| Development of Vectors(Arrays)|
+|List 5| In-depth study of vectors such as matrices manipulation|
+|List 6| Development of Functions, Pointers...|
 
-Importante o uso de:
-```
-#include <stdio.h>
-```
-```
-#include <math.>
-```
 
-## ⌛Vou atualizando aos poucos...
+## ⌛Some exercices have pieces in Portugues, I'll adding new exercices and updates as I go...

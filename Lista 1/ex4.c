@@ -5,16 +5,16 @@
 
 int main(void){
     setlocale(LC_ALL, "");
-    int a, b, soma;
+    int a, b, sum;
 
-    printf("Digite o número A: ");
+    printf("Type the number A: ");
     scanf("%d", &a);
-    printf("\nDigite o numero B: ");
+    printf("\nType the number B: ");
     scanf("%d", &b);
     
-    soma = a + b;
+    sum = a + b;
 
-    printf("A soma de A e B e: %d", soma);
+    printf("The sum between A and B is: %d", sum);
 
     return 0;
 }
