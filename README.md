@@ -1,7 +1,5 @@
 
-# Unifesp | Algorithms development in ANSI C
-
-Solving multiple exercices to the development of programing logic and algorithms in C.
+# Unifesp | Algorithms development in ANSI CSolving multiple exercices to the development of programing logic and algorithms in C.
 
 
 ## 💻 Studied Concepts
@@ -21,6 +19,5 @@ Solving multiple exercices to the development of programing logic and algorithms
 |List 4| Development of Vectors(Arrays)|
 |List 5| In-depth study of vectors such as matrices manipulation|
 |List 6| Development of Functions, Pointers...|
-
 
 ## ⌛Some exercices have pieces in Portugues, I'll adding new exercices and updates as I go...
